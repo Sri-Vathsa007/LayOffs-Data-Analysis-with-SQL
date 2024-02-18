@@ -1,1 +1,5 @@
-# LayOffs-Data-Analysis-with-SQL
+In today's dynamic economic landscape, organizational restructuring, mergers, acquisitions, and economic downturns often lead to the unfortunate but sometimes necessary event of employee layoffs. Understanding the patterns, trends, and underlying factors associated with these layoffs is crucial for organizations, policymakers, and researchers alike.
+
+Welcome to the Layoffs Data Analysis project, where we delve into the realm of Employee Layoffs through the lens of data analytics and SQL. This project aims to provide comprehensive insights into the phenomenon of workforce reductions, shedding light on the intricacies of employee displacements across various industries, countries, and timeframes.
+
+Divided into two fundamental components – Basic Exploratory Data Analysis (EDA) and Advanced EDA – this project navigates through structured datasets to uncover meaningful patterns, correlations, and anomalies within layoff data. Through the power of SQL queries, we aim to extract actionable insights that can inform strategic decision-making, facilitate proactive workforce planning, and ultimately mitigate the impact of layoffs on both organizations and employees.
